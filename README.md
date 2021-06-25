@@ -1,4 +1,13 @@
-### Hola 
+
+![title](https://user-images.githubusercontent.com/81613530/123416335-b7d6bd80-d5b6-11eb-8c67-c6ffa49d1064.jpg)
+
+
+<h1 align="center"> Hello ヽ(•‿•)ノ its me Niklas </h1>
+
+<h3 align="center"> Developer </h2>
+
+<br />
+<br />
 
 - 🔭 I’m currently working on [gitEncy](https://github.com/Niklas-Schaefers/gitEncy) "
 - 🌱 I’m currently learning everything about coding
