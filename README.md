@@ -5,7 +5,7 @@
 <h1 align="center"> Hello ヽ(•‿•)ノ its me Niklas </h1>
 
 <h3 align="center"> Developer </h2>
-<p Creative tech-head who loves coding and is always open to learn something new. Part-time musician, former entrepreneur and driven by the strong will to be a productive part of the team.</p>
+Creative tech-head who loves coding and is always open to learn something new. Part-time musician, former entrepreneur and driven by the strong will to be a productive part of the team.
 <br />
 <br />
 
