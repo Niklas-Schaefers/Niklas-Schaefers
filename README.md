@@ -9,10 +9,10 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [gitEncy](https://github.com/Niklas-Schaefers/gitEncy) "
+- 🔭 I’m currently working on [gitEncy](https://github.com/Niklas-Schaefers/gitEncy) "organize your repos"
 - 🌱 I’m currently learning everything about coding
 - 💬 Ask me about music, food and yoga
-- 📫 How to reach me: [Email](Niklas.Schaefers@gmx.de)[LinkedIn] or [Xing]
+- 📫 How to reach me: [Email](Niklas.Schaefers@gmx.de)
 - ⚡ Fun fact: Twisting knobs @ [Hidden Empire](https://www.instagram.com/hiddenempire_music/)
 
 <br />
@@ -33,8 +33,7 @@
 <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="left" width="40"></a>
 <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="left" width="40"></a>
 <a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a>
-<a href="https://www.adobe.com/de/products/xd.html"><img alt="Aodobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="40"></a> 
-<a href="https://www.adobe.com/in/products/illustrator.html"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/de/products/xd.html"><img alt="Adobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="40"></a> 
 
 <br />
 <br />
