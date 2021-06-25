@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [gitEncy](https://github.com/Niklas-Schaefers/gitEncy) "organize your repos"
 - 🌱 I’m currently learning everything about coding
 - 💬 Ask me about music, food and yoga
-- 📫 How to reach me: [Email](Niklas.Schaefers@gmx.de)
+- 📫 How to reach me: [Email](Niklas.Schaefers@gmx.de) [LinkedIn] (https://www.linkedin.com/in/niklas-sch%C3%A4fers-98a793215/)
 - ⚡ Fun fact: Twisting knobs @ [Hidden Empire](https://www.instagram.com/hiddenempire_music/)
 
 <br />
